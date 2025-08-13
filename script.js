@@ -54,18 +54,16 @@
 })();
 */
 const messages = [
-    "are you sure?",
-    "really sure??",
-    "what if i ask nicely",
-    "please please please ",
-    "sige na pleasee",
-    ":(((",
-    "what if umiyak ako",
-    "teh?",
-    "HUHUHU",
-    "fine block mo na lang ako",
-    "JOKE HEHE, PLEASEEEEEEE",
-    "(╥﹏╥)"
+    "Are you sure?",
+    "Really sure??",
+    "Are you positive?",
+    "Pookie please...",
+    "Just think about it!",
+    "If you say no, I will be really sad...",
+    "I will be very sad...",
+    "I will be very very very sad...",
+    "Ok fine, I will stop asking...",
+    "Just kidding, say yes please! ❤️"
 ];
 
 let messageIndex = 0;
