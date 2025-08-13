@@ -63,8 +63,8 @@ const messages = [
     "what if umiyak ako",
     "teh?",
     "HUHUHU",
-    "fine block mo na lang ako"
-    "JOKE HEHE, PLEASEEEEEEE"
+    "fine block mo na lang ako",
+    "JOKE HEHE, PLEASEEEEEEE",
     "(╥﹏╥)"
 ];
 
